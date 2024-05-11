@@ -14,9 +14,9 @@ What sets HackHive apart is its commitment to keeping users informed. The websit
 
 <br>
 
-Figma Link for the design file : https://www.figma.com/design/9HzyqaEl4SXVY4iZIA0SFp/HackHive
+Figma Link for the design file: https://www.figma.com/design/9HzyqaEl4SXVY4iZIA0SFp/HackHive
 <br>
-Deployed Link : https://hackhive-gssoc.netlify.app/
+Deployed Link: https://hackhive-gssoc.netlify.app/
 
 [![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/HackHive)](https://github.com/DSC-JSS-NOIDA/HackHive/issues)
 [![PRs](https://img.shields.io/github/issues-pr/DSC-JSS-NOIDA/HackHive)](https://github.com/DSC-JSS-NOIDA/HackHive/pulls)
@@ -26,7 +26,7 @@ Deployed Link : https://hackhive-gssoc.netlify.app/
 [![Watchers](https://img.shields.io/github/watchers/DSC-JSS-NOIDA/HackHive?style=social)](https://github.com/DSC-JSS-NOIDA/HackHive)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN)
 
-<!-- A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, within a click! -->
+<!-- A collection of resources categorized by tech domains, languages, expertise and much more. Blogzen gives you quick access to all the resources that you could need in a single place, with a click! -->
 
 ### Links
 
@@ -52,7 +52,7 @@ Deployed Link : https://hackhive-gssoc.netlify.app/
 - **Backend**: Node.js, Express.js, Selenium
 - **IDE**: VS Code
 - **Version Control**: Git and GitHub
-- **Database**: MongoDb
+- **Database**: MongoDB
 - **Hosting**: Render, Vercel
 
   <br>
@@ -91,7 +91,7 @@ $ cd HackHive
 ```
 
 - Make Changes to code<br>
-- Push to your fork of the repository , navigate to original repository and make a pull request.<be>
+- Push to your fork of the repository, navigate to the original repository, and make a pull request.<be>
 
 <strong>Backend</strong>
 
